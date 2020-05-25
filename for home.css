@@ -1,0 +1,35 @@
+body{
+    background-image: url(guitar.jpg);
+}
+p.courses{
+    font-size: 30px;
+    background: whitesmoke;
+    font-family: serif;
+}
+ul{
+    background-image: url(guitar.jpg);
+    border: darkblue dotted;
+    background-color: whitesmoke;
+    
+    
+}
+li{
+    text-shadow: 2px 2px  #33aafa;
+    font: outline;
+    font-size: 50px;
+    image-resolution: 10px;
+    
+}
+img{
+
+    width: 150px;
+    height: 200px;
+}
+span{
+    font-size: 20px;
+    color:rgba(255, 255, 0, 0.459);
+    font-family: cursive;
+    column-count: 2;
+    column-gap: 15px;
+    background-color: unset;
+}
